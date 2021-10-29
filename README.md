@@ -1,6 +1,6 @@
 # Proiect-Banca
 
-Acesta este un proiect realizat in limbajul java care simuleaza o aplicatie pentru banca care poate fi accesata atat de catre clienti, cat si de catre fisc. Clientul isi poate crea conturi in euro/ron, poate sterge unul sau ambele ambele conturi, poate depozita sau retrage bani din oricare cont si poate inteorga informatiile despre cele 2 conturi. Fiscul poate monitoriza un sau mai multi clienti, poate decide sa nu mai monitorizeze un client si poate primi notificari atunci cand soldul unui client monitorizat s-a modificat.
+Acesta este un proiect realizat in limbajul java care simuleaza o aplicatie pentru banca care poate fi accesata atat de catre clienti, cat si de catre fisc. Clientul isi poate crea conturi in euro/ron, poate sterge unul sau ambele ambele conturi, poate depozita sau retrage bani din oricare cont si poate interoga informatiile despre cele 2 conturi. Fiscul poate monitoriza un sau mai multi clienti, poate decide sa nu mai monitorizeze un client si poate primi notificari atunci cand soldul unui client monitorizat s-a modificat.
 
 Clasele si rolul lor:
 1. Clientul       =      clasa unde sunt stocate toate informatiile despre client si in care am realizat functiile folosite pentru a depunde/ retrage bani din cont, dar si cele                            pentru a inlocui sold-ul unui dintre conturi in cazul in care acesta a fost modificat;
